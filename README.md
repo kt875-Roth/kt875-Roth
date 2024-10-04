@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love to sew and write/play music in my free time 
 --> My favorite library-carpentry repository is [Top-10-FAIR][1]  
 --> My favorite digital-preservation repository is [awesome-digital-preservation][2]
-- [1]: <[https://github.com/LibraryCarpentry/Top-10-FAIR> "Top-10-FAIR" 
+- [1]: <https://github.com/LibraryCarpentry/Top-10-FAIR> "Top-10-FAIR" 
 - [2]: <https://github.com/digipres/awesome-digital-preservation> "awesome-digital-preservation" 
